@@ -27,13 +27,13 @@
 ---
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pritam25062006&show_icons=true&hide=stars&theme=default)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sayanbarman01&show_icons=true&hide=stars&theme=default)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Pritam25062006&layout=compact&theme=default)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sayanbarman01&layout=compact&theme=default)
 
 ---
 
 ## 🤝 Connect with Me
-- [LinkedIn](www.linkedin.com/in/sayan-barman01)  
-- *[Portfolio](https://yourportfolio.com)*  
-- [Email](sayan.barman.dev@gmail.com)
+[![LinkedIn](https://cdn-icons-png.flaticon.com/24/174/174857.png)](www.linkedin.com/in/sayan-barman01)
+[![Portfolio](https://cdn-icons-png.flaticon.com/24/25/25231.png)](https://yourportfolio.com)
+[![Email](https://cdn-icons-png.flaticon.com/24/732/732200.png)](sayan.barman.dev@gmail.com)
