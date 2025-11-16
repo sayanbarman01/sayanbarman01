@@ -34,6 +34,6 @@
 ---
 
 ## 🤝 Connect with Me
-[![LinkedIn](https://cdn-icons-png.flaticon.com/24/174/174857.png)](www.linkedin.com/in/sayan-barman01)
-[![LinkedIn](https://cdn-icons-png.flaticon.com/24/5968/5968830.png)]([www.linkedin.com/in/sayan-barman01](https://x.com/Sayanbarman01))
+[![LinkedIn](https://cdn-icons-png.flaticon.com/24/2626/2626273.png)](https://www.linkedin.com/in/sayan-barman01)
+[![X](https://cdn-icons-png.flaticon.com/24/5969/5969020.png)](https://x.com/Sayanbarman01)
 [![Email](https://cdn-icons-png.flaticon.com/24/732/732200.png)](sayan.barman.dev@gmail.com)
