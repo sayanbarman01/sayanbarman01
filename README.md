@@ -35,5 +35,5 @@
 
 ## 🤝 Connect with Me
 [![LinkedIn](https://cdn-icons-png.flaticon.com/24/174/174857.png)](www.linkedin.com/in/sayan-barman01)
-[![Portfolio](https://cdn-icons-png.flaticon.com/24/25/25231.png)](https://yourportfolio.com)
+[![LinkedIn](https://cdn-icons-png.flaticon.com/24/5968/5968830.png)]([www.linkedin.com/in/sayan-barman01](https://x.com/Sayanbarman01))
 [![Email](https://cdn-icons-png.flaticon.com/24/732/732200.png)](sayan.barman.dev@gmail.com)
