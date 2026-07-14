@@ -1,147 +1,94 @@
 <div align="center">
 
-# Hi 👋, I'm Sayan Barman
+<img src="./assets/banner.svg" alt="Sayan Barman — AI/ML Engineer" width="100%"/>
 
-### 🚀 Aspiring AI/ML Engineer | B.Tech CSE Student | Python Developer
+<br/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=Artificial+Intelligence+%F0%9F%A4%96;Machine+Learning+Enthusiast;Python+Developer;Open+Source+Contributor;Always+Learning+New+Things" />
+<img src="https://img.shields.io/badge/AI%2FML%20Engineer-0d1b2a?style=for-the-badge&logo=brain&logoColor=5ff0e0&labelColor=0d1b2a" alt="AI/ML Engineer"/>
+<img src="https://img.shields.io/badge/Python%20Developer-0d1b2a?style=for-the-badge&logo=python&logoColor=5ff0e0&labelColor=0d1b2a" alt="Python Developer"/>
+<img src="https://img.shields.io/badge/Open%20to%20Internships-0d1b2a?style=for-the-badge&logo=target&logoColor=5ff0e0&labelColor=0d1b2a" alt="Open to Internships"/>
 
-<p>
-<img src="https://komarev.com/ghpvc/?username=sayanbarman01&label=Profile+Views&color=0e75b6&style=flat" />
-<img src="https://img.shields.io/github/followers/sayanbarman01?label=Followers&style=social" />
-</p>
+[![Email](https://img.shields.io/badge/Email-0d1b2a?style=flat-square&logo=gmail&logoColor=5ff0e0)](mailto:YOUR-EMAIL@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1b2a?style=flat-square&logo=linkedin&logoColor=5ff0e0)](https://linkedin.com/in/YOUR-LINKEDIN-ID)
+[![X](https://img.shields.io/badge/X-0d1b2a?style=flat-square&logo=x&logoColor=5ff0e0)](https://x.com/YOUR-X-HANDLE)
+[![LeetCode](https://img.shields.io/badge/LeetCode-0d1b2a?style=flat-square&logo=leetcode&logoColor=5ff0e0)](https://leetcode.com/YOUR-LEETCODE-ID)
 
 </div>
 
----
+<br/>
 
-# 💫 About Me
+## About
 
-🎓 B.Tech in Computer Science & Engineering (2024–2028)
+I'm a Computer Science Engineering student (B.Tech, 2024–2028) focused on **Artificial Intelligence and Machine Learning**. I build systems that turn raw data into working models — from exploratory analysis to predictive pipelines — and I'm working toward applied AI/ML roles in industry or research.
 
-🤖 Passionate about Artificial Intelligence, Machine Learning and Data Science
+- 🧠 Focus: Machine Learning, Deep Learning, Data Science
+- 🌱 Currently learning: Neural Networks, model deployment & MLOps fundamentals
+- 🎯 Goal: Contribute to real-world AI systems and open-source ML projects
+- 📫 Open to internships and collaborative work
 
-💻 Love building real-world AI applications
+<br/>
 
-🌱 Currently learning
+## Technical Skills
 
-- Deep Learning
-- Generative AI
-- LangChain
-- TensorFlow
-- Data Structures & Algorithms
+<div align="center">
+<img src="https://skillicons.dev/icons?i=python,cpp,c,tensorflow,git,github,vscode,jupyter,linux&theme=dark" />
+</div>
 
-🎯 Goal
+<br/>
 
-Become an AI Engineer and contribute to impactful Open Source & Research Projects.
+| Category | Stack |
+|---|---|
+| **Languages** | Python · C++ · C |
+| **Machine Learning** | TensorFlow · Scikit-learn · NumPy · Pandas |
+| **Tools & Platforms** | Git · GitHub · Jupyter Notebook · VS Code · Linux |
+| **Core Concepts** | Neural Networks · Data Analysis · Algorithm Design · Data Visualization |
 
----
+<br/>
 
-# 🚀 Tech Stack
+## Featured Projects
 
-### Programming
+<table>
+<tr>
+<td width="50%" valign="top">
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus)
+**🦠 [COVID-19 Data Analysis](https://github.com/sayanbarman01/Covid_project)**
+Exploratory data analysis and visualization of COVID-19 case data, identifying trends in growth rate and regional spread.
 
-### AI / ML
+`Python` `Pandas` `Matplotlib`
 
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow)
-![NumPy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
-![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn)
+</td>
+<td width="50%" valign="top">
 
-### Tools
+**🛰️ [Satellite Conjunction Risk Dashboard](https://github.com/sayanbarman01/satellite-conjunction-risk-dashboard)**
+An interactive dashboard for evaluating satellite collision risk from orbital conjunction data.
 
-![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode)
+`Python` `Jupyter Notebook` `Data Science`
 
----
+</td>
+</tr>
+</table>
 
-# 🚀 Featured Projects
+<br/>
 
-## 🛰 Satellite Conjunction Risk Dashboard
-
-AI-powered dashboard for satellite collision prediction and visualization.
-
-🔗 Repository
-
-https://github.com/sayanbarman01/satellite-conjunction-risk-dashboard
-
----
-
-## ⚖ AI Legal Guardian
-
-AI assistant that helps users understand legal documents using LLMs.
-
----
-
-## 🦠 COVID Prediction Project
-
-Machine Learning project for COVID data analysis and prediction.
-
----
-
-# 📈 GitHub Analytics
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=sayanbarman01&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sayanbarman01&layout=compact&theme=tokyonight"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=sayanbarman01&theme=tokyonight"/>
-
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=sayanbarman01&theme=algolia&no-frame=true&margin-w=10&row=2&column=4"/>
-
-</p>
-
----
-
-# 📊 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sayanbarman01&theme=tokyo-night"/>
-
-</p>
-
----
-
-# 🌐 Connect With Me
-
-<p align="center">
-
-<a href="https://linkedin.com/in/YOUR_LINK">
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"/>
-</a>
-
-</p>
-
----
+## GitHub Overview
 
 <div align="center">
 
-### ⭐ Thanks for visiting my profile!
+<img src="https://github-readme-stats.vercel.app/api?username=sayanbarman01&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1219&title_color=5ff0e0&icon_color=7c6bff&text_color=c9d1d9" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sayanbarman01&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1219&title_color=5ff0e0&text_color=c9d1d9&langs_count=8" height="165"/>
 
-*"Code. Learn. Build. Repeat."*
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sayanbarman01&theme=tokyonight&hide_border=true&background=0d1219&ring=5ff0e0&fire=7c6bff&currStreakLabel=5ff0e0" />
+
+</div>
+
+<br/>
+
+## Contact
+
+<div align="center">
+
+**Email:** YOUR-EMAIL@example.com &nbsp;·&nbsp; **LinkedIn:** [YOUR-LINKEDIN-ID](https://linkedin.com/in/YOUR-LINKEDIN-ID) &nbsp;·&nbsp; **X:** [@YOUR-X-HANDLE](https://x.com/YOUR-X-HANDLE)
+
+<sub>Building intelligent systems, one model at a time.</sub>
 
 </div>
